@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "Webpack loader transpiling jsx into virtual-hyperscript javascript, using jsx-transform",
   "main": "index.js",
-  "directories": {
   "files": [
      "index.js"
    ],

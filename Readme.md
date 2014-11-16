@@ -36,9 +36,12 @@ loader: "jsx-virtual-hyperscript-loader?ignoreDocblock=true"
 ```
 
 ignoreDocblock : Parse files without docblock (default: false). If true, options.jsx must also be set.
+
 tagMethods : Use tag as method instead of argument (default: false).
-jsx : name of virtual DOM node constructor
-tags : array of known tags
+
+jsx : name of virtual DOM node constructor.
+
+tags : array of known tags.
 
 ## License
 
@@ -68,4 +71,4 @@ THE SOFTWARE.
 [npm-image]: https://img.shields.io/npm/v/jsx-virtual-hyperscript-loader.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/jsx-virtual-hyperscript-loader
 [license-image]: http://img.shields.io/npm/l/jsx-virtual-hyperscript-loader.svg?style=flat-square
-[license-url]: LICENSE
+[license-url]: MIT
