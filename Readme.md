@@ -45,7 +45,7 @@ tags : array of known tags.
 
 ## License
 
-The MIT License (MIT)
+MIT License (MIT)
 
 Copyright (c) 2014 Etienne Molto
 
@@ -71,4 +71,4 @@ THE SOFTWARE.
 [npm-image]: https://img.shields.io/npm/v/jsx-virtual-hyperscript-loader.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/jsx-virtual-hyperscript-loader
 [license-image]: http://img.shields.io/npm/l/jsx-virtual-hyperscript-loader.svg?style=flat-square
-[license-url]: MIT
+[license-url]: LICENSE
