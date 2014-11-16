@@ -1,0 +1,26 @@
+{
+  "name": "jsx-virtual-hyperscript-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader transpiling jsx into virtual-hyperscript javascript, using jsx-transform",
+  "main": "index.js",
+  "directories": {
+  "files": [
+     "index.js"
+   ],
+  "dependencies": {
+    "jsx-transform": "~0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Artesonraju/jsx-virtual-hyperscript-loader.git"
+  },
+  "keywords": [
+    "webpack", "loader", "jsx", "virtual-hyperscript"
+  ],
+  "author": "Etienne Molto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Artesonraju/jsx-virtual-hyperscript-loader/issues"
+  },
+  "homepage": "https://github.com/Artesonraju/jsx-virtual-hyperscript-loader"
+}
